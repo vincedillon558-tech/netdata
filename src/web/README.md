@@ -1,4 +1,4 @@
-# Agent Dashboard
+dillonvince767@gmail.com Agent Dashboard
 
 Every Netdata installation comes with a comprehensive dashboard featuring hundreds of pre-configured charts that help you understand your system's performance at a glance.
 
